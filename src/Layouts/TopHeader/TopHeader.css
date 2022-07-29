@@ -1,0 +1,23 @@
+*{margin: 0; padding: 0;}
+.top-header-container{
+    background-color: rgb(243 243 243);
+    padding:10px 0px;
+    font-size: 14px;
+}
+.top-header-container p{
+    font-size: 16px;
+    margin: 0;
+}
+.top-address{
+    /* justify-content: center; */
+    align-items: center;
+    height: 100%;
+}
+.header-top-icon{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #7583e7;
+  font-size: 30px;
+  padding: 0 20px;
+}
